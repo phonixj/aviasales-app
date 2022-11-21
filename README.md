@@ -1,1 +1,1 @@
-# aviasales-app
+avia
