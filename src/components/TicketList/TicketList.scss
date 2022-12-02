@@ -1,0 +1,13 @@
+.ticket-list {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  margin-bottom: 20px;
+  font-family: 'Open Sans', sans-serif;
+letter-spacing: 0.5px;
+
+  &__item {
+    margin-top: 20px;
+  }
+}
+
